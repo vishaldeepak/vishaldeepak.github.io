@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: About | My Awesome Blog]]></title>
+  <link href="http://vishaldeepak.github.io/blog/categories/about/atom.xml" rel="self"/>
+  <link href="http://vishaldeepak.github.io/"/>
+  <updated>2015-06-07T13:25:54+05:30</updated>
+  <id>http://vishaldeepak.github.io/</id>
+  <author>
+    <name><![CDATA[Vishal Deepak]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First]]></title>
+    <link href="http://vishaldeepak.github.io/blog/2015/06/07/first/"/>
+    <updated>2015-06-07T13:05:49+05:30</updated>
+    <id>http://vishaldeepak.github.io/blog/2015/06/07/first</id>
+    <content type="html"><![CDATA[<p>Hello there, this is my first post. Testing 1,2,3.</p>
+
+<p>“Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life.”</p>
+]]></content>
+  </entry>
+  
+</feed>
